@@ -1,0 +1,36 @@
+html {
+  font-family: Arial, sans-serif;
+  font-size: 24px; }
+
+body {
+  background: #eee; }
+
+th,
+tbody,
+tr {
+  margin: 0;
+  padding: 0; }
+
+table {
+  border-collapse: collapse;
+  color: #118488;
+  background-color: white; }
+
+td,
+th {
+  text-align: center; }
+
+th {
+  font-weight: bold;
+  background-color: #fd5c63;
+  color: #fff; }
+
+td {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #118488;
+  padding: 10px; }
+
+/*# sourceMappingURL=main.css.map */
