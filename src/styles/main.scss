@@ -1,9 +1,17 @@
-@import "utils";
-@import "fonts";
-@import "typography";
+html {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+}
 
 body {
-  background: $c-gray;
+  background: #eee;
+}
+
+th,
+tbody,
+tr {
+  margin: 0;
+  padding: 0;
 }
 
 table {
@@ -14,8 +22,6 @@ table {
 
 td,
 th {
-  border: 1px solid #118488;
-  padding: 10px;
   text-align: center;
 }
 
@@ -23,4 +29,12 @@ th {
   font-weight: bold;
   background-color: #fd5c63;
   color: #fff;
+}
+
+td {
+  box-sizing: border-box;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #118488;
+  padding: 10px;
 }
