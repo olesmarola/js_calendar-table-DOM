@@ -18,4 +18,4 @@ Function `calendarTable(year, month, element)`
 
 **Result**
 
-- [UPDATE DEMO LINK](https://olsemarola.github.io/<repo_name>/)
+- [UPDATE DEMO LINK](https://olesmarola.github.io/<repo_name>/)
