@@ -17,10 +17,10 @@ table {
   background-color: white; }
 
 td,
-th {
+thead {
   text-align: center; }
 
-th {
+thead {
   font-weight: bold;
   background-color: #fd5c63;
   color: #fff; }
